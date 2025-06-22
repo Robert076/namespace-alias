@@ -1,5 +1,5 @@
 # 🌎 namespace-alias
-A kubernetes alias for changing between namespaces.
+A kubernetes alias for switching between namespaces.
 
 ### 🚀 Setup:
 1. Copy the function inside `alias.sh`
