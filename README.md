@@ -12,3 +12,5 @@ kubecontext mynamespace
 ```
 
 > Output: Context "kind-kind" modified. (I am using kind cluster)
+
+If you want an even shorter version, add an alias in your file to call this function: `alias kc='kubecontext'`
